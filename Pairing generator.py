@@ -8,7 +8,7 @@ c.execute("SELECT username FROM usernames")
 usernames = [row[0] for row in c.fetchall()]
 
 if len(usernames) % 2 != 0:
-    usernames.append('username1')
+    usernames.append('username1')#here
 
 def get_pairing():
     random.shuffle(usernames)
