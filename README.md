@@ -11,5 +11,5 @@ You can delete names from the db using "Delete names.py".
 You can delete pairings from the db using "Delete pairs.py".
 You can add pairs to the db using "Add pairs.py".
 You can see if a particular name is in the db using "Name finder.py".
-You can see if there is any repetition of names using "Name reoccurrence check.py".
+You can see if there is any repetition of names using "Name repetition check.py".
 You can operate on multiple names/pairings in every script at once.
