@@ -22,5 +22,5 @@ def delete_pairings(pairs):
     conn.commit()
     conn.close()
 
-pairs_to_delete = [('username1', 'username2'), ('username3', 'username4')]
+pairs_to_delete = [('username1', 'username2'), ('username3', 'username4')]#here
 delete_pairings(pairs_to_delete)
