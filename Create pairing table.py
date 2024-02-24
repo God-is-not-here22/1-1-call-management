@@ -1,6 +1,6 @@
 import sqlite3
 
-conn = sqlite3.connect('names.db')
+conn = sqlite3.connect('usernames.db')
 
 c = conn.cursor()
 
